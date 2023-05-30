@@ -7,3 +7,8 @@ def obtener_ascii(palabra):
     for caracter in palabra:
         valores_ascii.append(ord(caracter))
     return valores_ascii
+def get_binary(word):
+    binary_values = []
+    for character in word:
+        binary_values.append(bin(ord(character))[2:])
+    return binary_values
