@@ -1,6 +1,6 @@
 from operations import get_ascci, get_binary, get_results
 import sys
-menu = int(input('Menu\n======\n1. Character\n2. Word'))
+menu = int(input('Menu\n======\n1. Character\n2. Word \n enter options'))
 
 if (menu == 1):
     char = input('Enter a character: ')
