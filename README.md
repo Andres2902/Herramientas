@@ -15,6 +15,8 @@ Parcial Final de Herraamientas
 - Andrés Felipe Bejarano (Usuario GitHub: andresfbejarano)
 - Juan Pablo Mena (Usuario GitHub: J-p-M7)
 - Jairo Andrés Tegüe (Usuario GitHub: Andres2902)
+- Jose David Ruano Burbano (Usuario Github: Jdavidrb)
+- Juan Manuel Canchala(Usuario Github: animator2005)
 
 ## Paso a paso para trabajar con el repositorio
 
